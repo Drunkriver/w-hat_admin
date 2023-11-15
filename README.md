@@ -12,11 +12,10 @@ Vite2 + TypeScript + Vue3 + element-plu
 然后执行命令
 
 安装
-
 npm install
+
 运行
-
 npm run dev
-打包
 
+打包
 npm run build
